@@ -1,4 +1,4 @@
-# Lab 1: Data Types Practice — Using String Interpolation
+# Lab 1: Data Types Practice - Using String Interpolation
   Instructions:
   Follow each step carefully.
   Use string interpolation (backticks `` ` `` and ${ }) for every console message.
